@@ -4,7 +4,7 @@ Author : Sameer Rudani
 
 Email : sameerrudani@gmail.com 
 
- ![credit card fraud detection](https://github.com/msave121/Credit-Card-Fraud-Detection/assets/64603783/a046f9e4-355c-4de0-850c-709f2563bff0)
+![credit card fraud detection](https://github.com/SAMEERRUDANI2000/Credit-Card-Fraud-Detection/assets/163724132/7f526a03-613d-44d2-af63-00ea5b64d570)
 
 This is a credit card fraud detection tool from Kaggle that labels anonymous credit card transactions as either authentic or fraudulent.
 The project's goal is to apply data visualization techniques in order to comprehend the data's insight.
